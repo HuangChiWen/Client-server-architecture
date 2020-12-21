@@ -1,4 +1,4 @@
 # Client-server-architecture
 ![Client server architecture](Client server architecture.png "Client server architecture")
 
-![](Client server architecture.PNG "主從式架構設計")
+![](Client-server-architecture.png "主從式架構設計")
